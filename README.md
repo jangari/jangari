@@ -2,7 +2,7 @@
 
 ## Badges
 
-[![R203](https://certificates.researchertraining.cloud.edu.au/static/R203.svg){width=200 height=200}](https://certificates.researchertraining.cloud.edu.au/certificate/tyui)
+[!<img src="https://certificates.researchertraining.cloud.edu.au/static/R203.svg" width="150px">](https://certificates.researchertraining.cloud.edu.au/certificate/tyui)
 
 <!--
 **jangari/jangari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
